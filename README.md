@@ -22,7 +22,6 @@ HTML-based e-commerce website project (Lab 0) demonstrating basic web developmen
 ## Screenshots
 
 ### Homepage
-(Add screenshot of main page here)
 ![Homepage](homepage.png)
 
 ### Product List
