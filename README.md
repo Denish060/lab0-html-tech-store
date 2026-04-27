@@ -1,23 +1,43 @@
-# lab0-html-tech-store
-HTML-based e-commerce website project (Lab 0) demonstrating basic web development concepts including structure, forms, and tables.
+# Lab 0: HTML Tech Store (E-Commerce Prototype)
+
+A structured front-end e-commerce prototype built using HTML5, designed to demonstrate foundational web development concepts such as semantic structure, form handling, and tabular data representation.
+
+---
+
+## Project Overview
+
+This project simulates a basic e-commerce interface to understand how web pages are structured at the foundational level. It focuses on layout design, user input handling, and content organization using only HTML.
+
+Although simple in implementation, it reflects the core building blocks of real-world web applications.
+
+---
 
 ## Objectives
-- Understand basic HTML structure
-- Create a simple business webpage
-- Design product listings using tables
-- Build a customer registration form
-- Practice linking external websites
 
-## Technologies Used
-- HTML5
-- Basic web development structure
+- Implement proper HTML5 document structure and semantics  
+- Design a basic e-commerce layout using tables and sections  
+- Develop a functional user registration form  
+- Practice navigation and external linking concepts  
+- Understand how front-end structure defines user interaction flow  
 
-## Features
-- Business introduction section
-- Product listing table (laptops, smartphones, accessories)
-- Customer registration form
-- External link to Apple official website
-- Simple structured layout for user interaction
+---
+
+## Technical Stack
+
+- HTML5 (Core structure and markup)
+- Static front-end design (No frameworks or libraries)
+
+---
+
+## System Features
+
+- Structured homepage with business introduction  
+- Product catalog presented using HTML tables  
+- Customer registration form with input validation structure  
+- External link integration for reference (Apple official website)  
+- Organized layout simulating a basic e-commerce flow  
+
+---
 
 ## Screenshots
 
@@ -30,18 +50,35 @@ HTML-based e-commerce website project (Lab 0) demonstrating basic web developmen
 ### Registration Form
 ![Form](forms.png)
 
-## What I Learned
-- How to structure a webpage using HTML
-- How to create tables and forms
-- How to organize content for a basic website
-- Introduction to building user input forms
+---
 
-## Future Improvements
-- Add CSS for better design and styling
-- Add JavaScript for form validation
-- Convert into a responsive e-commerce website
-- Add backend functionality for user registration
+## Key Technical Learnings
+
+- Semantic structuring of web documents using HTML5  
+- Designing tabular data representations for product catalogs  
+- Building structured forms for user input collection  
+- Understanding layout hierarchy in static web applications  
+- Introduction to front-end system design thinking  
+
+---
+
+## Security-Relevant Insight (Learning Perspective)
+
+While this project is purely front-end, it introduces the concept of user input handling through forms, which is a foundational component in web application security. Proper structuring at this stage is critical for later implementation of validation, authentication, and secure data handling mechanisms.
+
+---
+
+## Future Enhancements
+
+- CSS integration for responsive UI/UX design  
+- JavaScript-based form validation and interactivity  
+- Conversion into a fully responsive e-commerce interface  
+- Backend integration for user management and data persistence  
+- Security improvements including input sanitization and validation layers  
+
+---
 
 ## Author
+
 Denish Adhikari  
-Cybersecurity Student | Web Development Basics
+Cybersecurity Student | Web Development Foundations | Security-Focused Learner
